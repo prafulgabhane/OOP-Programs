@@ -1,4 +1,19 @@
 ﻿{
-
+  "TypesOfStock": [
+    {
+      "name": "ITC ",
+      "NoOfshare": 100,
+      "price": 300
+    },
+    {
+      "name": "Adani Ports  ",
+      "NoOfshare": 1500,
+      "price": 3300
+    },
+    {
+      "name": "TCS ",
+      "NoOfshare": 300,
+      "price": 3300
+    }
+  ]
 }
-
